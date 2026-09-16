@@ -1,0 +1,13 @@
+../Core/Src/gps.c:22:6:GPS_Init	72	static
+../Core/Src/gps.c:105:6:GPS_Task	368	static
+../Core/Src/gps.c:193:6:GPS_DMA_Read	24	static
+../Core/Src/gps.c:270:6:GPS_ProcessByte	16	static
+../Core/Src/gps.c:332:9:GPS_HexToNibble	16	static
+../Core/Src/gps.c:360:6:GPS_Checksum	40	static
+../Core/Src/gps.c:417:6:GPS_ParseSentence	16	static
+../Core/Src/gps.c:452:8:GPS_ConvertCoordinate	48	static
+../Core/Src/gps.c:485:6:GPS_ConvertUTCToIST	16	static
+../Core/Src/gps.c:524:6:GPS_ParseRMC	208	static
+../Core/Src/gps.c:640:6:GPS_ParseGGA	184	static
+../Core/Src/gps.c:690:6:GPS_DebugPrint	24	static
+../Core/Src/gps.c:720:6:GPS_GetData	24	static
